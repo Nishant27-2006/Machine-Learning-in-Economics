@@ -2,34 +2,7 @@ Machine Learning Models for Economic Forecasting: A Case Study on GDP Growth Pre
 Overview
 This repository contains the research paper, code, and datasets used in the study "Machine Learning Models for Economic Forecasting: A Case Study on GDP Growth Prediction." The study explores the application of advanced machine learning models—Linear Regression, Random Forest, and Gradient Boosting—in predicting GDP growth. The research highlights the effectiveness of these models in handling complex, non-linear relationships within economic data, with a focus on improving the accuracy and reliability of economic forecasts.
 
-Table of Contents
-Project Structure
-Installation
-Usage
-Results
-Figures
-Contributing
-License
-Project Structure
-plaintext
-.
-├── data/
-│   ├── GDP_Data_Cleaned.xlsx
-│   ├── Inflation_Data_Cleaned.xlsx
-│   └── SP500_Monthly_Data_Cleaned.xlsx
-├── code/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   ├── evaluation.py
-│   └── scenario_analysis.py
-├── figures/
-│   ├── actual_vs_predicted_gdp_growth.png
-│   ├── feature_importance_random_forest.png
-│   └── gdp_forecast_arima.png
-├── paper/
-│   ├── research_paper.pdf
-│   └── references.bib
-└── README.md
+
 data/: Contains the cleaned datasets used in the study.
 code/: Python scripts for data preprocessing, model training, evaluation, and scenario analysis.
 figures/: Output figures generated from the analysis, used in the research paper.
